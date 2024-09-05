@@ -7,43 +7,43 @@
    
    const perguntas = [
        {
-           enunciado: "Como você acredita que podemos combater o racismo na sociedade?",
+           enunciado: "Como a comunicação entre membros da equipe impacta a colaboração?",
            alternativas: [
                {
-                   texto: "Participando de campanhas de conscientização e educação sobre igualdade racial.",
-                   afirmacao: "afirmacao1"
+                   texto: " A comunicação aberta e transparente entre membros da equipe melhora a colaboração.",
+                   afirmacao: "Quando a comunicação é aberta e transparente, os membros da equipe compartilham informações e ideias mais livremente, o que fortalece o trabalho em equipe e a colaboração."
                },
                {
-                   texto: "Denunciando atos de discriminação e apoiando políticas públicas inclusivas.",
-                   afirmacao: "afirmacao2"
+                   texto: " A comunicação restrita e seletiva entre membros da equipe aumenta a eficiência",
+                   afirmacao: "A comunicação restrita pode criar uma sensação de especialização e foco, permitindo que os membros da equipe trabalhem de forma mais eficiente em tarefas específicas sem distrações externas."
                }
               
            ]
        },
        {
-           enunciado: "Como você pode ajudar a combater a disseminação de fake news, especialmente as que perpetuam o racismo?",
+           enunciado: "Qual tipo de horário de trabalho contribui melhor para o equilíbrio entre vida pessoal e profissional?",
            alternativas: [
                {
-                   texto: "Verificando a veracidade das informações antes de compartilhar qualquer conteúdo, especialmente sobre temas sensíveis como racismo.",
-                   afirmacao: "afirmacao3"
+                   texto: "Flexibilidade no horário de trabalho contribui para um melhor equilíbrio entre vida pessoal e profissional.",
+                   afirmacao: "Horários flexíveis permitem que os funcionários ajustem suas jornadas de trabalho para atender às necessidades pessoais, promovendo um equilíbrio saudável entre trabalho e vida pessoal."
                },
                {
-                   texto: "Educando amigos e familiares sobre os perigos das fake news e incentivando-os a não compartilhar conteúdos falsos que perpetuam o racismo.",
-                   afirmacao: "afirmacao4"
+                   texto: "Horários rígidos e fixos são essenciais para manter a produtividade e a disciplina no trabalho.",
+                   afirmacao: "Horários rígidos garantem que todos os membros da equipe estejam disponíveis ao mesmo tempo, o que pode ajudar a manter a produtividade e a organização no ambiente de trabalho."
                }
               
            ]
        },
        {
-           enunciado: "Como podemos incentivar o uso de energia solar e outras formas de energia limpa, especialmente em comunidades carentes?",
+           enunciado: "Qual é o efeito da adoção de novas tecnologias no ambiente de trabalho?",
            alternativas: [
                {
-                   texto: "Defendendo políticas públicas que subsidiem a energia solar para famílias de baixa renda.",
-                   afirmacao:"afirmacao5"
+                   texto: "A adoção de novas tecnologias facilita a execução das tarefas e a inovação no ambiente de trabalho.",
+                   afirmacao:"Novas tecnologias podem agilizar processos e introduzir soluções inovadoras, tornando o trabalho mais eficiente e possibilitando novas formas de realizar tarefas."
                },
                {
-                   texto: "Promovendo a instalação de painéis solares em escolas e centros comunitários de comunidades marginalizadas.",
-                   afirmacao:"afirmacao6"
+                   texto: " Manter os métodos tradicionais e evitar mudanças tecnológicas preserva a estabilidade e a familiaridade.",
+                   afirmacao:"Optar por métodos tradicionais pode manter a consistência e reduzir a curva de aprendizado associada a novas tecnologias, proporcionando um ambiente de trabalho mais estável e familiar."
                }
            ]
        }
